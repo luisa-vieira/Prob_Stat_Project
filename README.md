@@ -2,8 +2,6 @@
 This a simulation of Renshaw’s spatial predator-prey model from Exercise 10 of Chapter 7 of the book:
 ALLEN, Linda JS. An introduction to stochastic processes with applications to biology. CRC press, 2010.
 
-## Deterministic_model.py 
-
 ## Project_v5.py
 
 Runs 50 simulations for the the case in which we have two patches (two preys and two predator populations) and records the proportion of sample paths in which the
@@ -14,3 +12,7 @@ The simulations are performed for four cases: (i) u = v = 0; (ii) u = 0.001 = v 
 ## Project_three_patches.py
 
 Same as Project_v5.py but for a case in which there are three patches.
+
+## Deterministic_model.py 
+
+Simulation of the deterministic model for two patches
