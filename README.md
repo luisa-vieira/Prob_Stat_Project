@@ -2,7 +2,7 @@
 This a simulation of Renshaw’s spatial predator-prey model from Exercise 10 of Chapter 7 of the book:
 ALLEN, Linda JS. An introduction to stochastic processes with applications to biology. CRC press, 2010.
 
-## Project_v5.py
+## Project_two_patches.py
 
 Runs 50 simulations for the the case in which we have two patches (two preys and two predator populations) and records the proportion of sample paths in which the
 prey is extinct, the predators are extinct and in which both populations coexist. 
